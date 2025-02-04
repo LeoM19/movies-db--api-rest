@@ -1,0 +1,19 @@
+{
+  "name": "movies-db--api-rest",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoM19/movies-db--api-rest.git"
+  },
+  "author": "@Leonardo_Mestre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoM19/movies-db--api-rest/issues"
+  },
+  "homepage": "https://github.com/LeoM19/movies-db--api-rest#readme",
+  "description": ""
+}
